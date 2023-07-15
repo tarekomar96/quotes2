@@ -1,0 +1,44 @@
+.task{
+    /* background-color: teal; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.task h1{
+
+    font-size:80px ;
+    font-weight: 700;
+}
+
+
+.task p{
+    font-size:35px ;
+}
+
+.task button{
+
+    padding: 30px 80px;
+    background-color: #0000FF;
+ 
+}
+
+
+
+.task button:hover{
+    background-color: #008000;
+}
+
+#ali{
+
+   transform: translateY(60px);
+}
+
+
+.para{
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
